@@ -17,9 +17,5 @@
 
 ### Conect Me 📞
 
-<a href="https://www.instagram.com/h4san.obeydi/">
-  <img src="https://github.com/hasan-obeydi/hasan-obeydi/blob/main/Instagram%20Logo.png?raw=true" />
-</a>
-<a href="https://t.me/@Hasan_Obeydi">
-  <img src="https://github.com/hasan-obeydi/hasan-obeydi/blob/main/Telegram%20Logo.png?raw=true" />
-</a>
+<a href="https://www.instagram.com/h4san.obeydi/"><img src="https://github.com/hasan-obeydi/hasan-obeydi/blob/main/Instagram%20Logo.png?raw=true" alt="Instagram"></a>
+<a href="https://t.me/@Hasan_Obeydi"><img src="https://github.com/hasan-obeydi/hasan-obeydi/blob/main/Telegram%20Logo.png?raw=true" alt="Telegrem" /></a>
